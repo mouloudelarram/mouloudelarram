@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-mouloudelarram.github.io-2c5364?style=for-the-badge&logo=github-pages&logoColor=white)](https://mouloudelarram.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mouloud%20El%20Arram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouloudelarram/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-mouloudelarram-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mouloudelarram/)
-[![Email](https://img.shields.io/badge/Email-mouloudelarram%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouloudelarram@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mouloudelarram%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mouloudelarram@gmail.com)
 </div>
 
 ---
@@ -265,4 +265,4 @@ Architected complete e-commerce ecosystem including product catalog management, 
 
 ---
 
-**Last Updated:** March 2026 | [📧 Contact](mailto:mouloudelarram@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/mouloudelarram/) | [🌐 Portfolio](https://mouloudelarram.github.io/)
+**Last Updated:** March 2026 | [📧 Contact](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mouloudelarram@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/mouloudelarram/) | [🌐 Portfolio](https://mouloudelarram.github.io/)
