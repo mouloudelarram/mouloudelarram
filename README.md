@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mouloud%20El%20Arram&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Enterprise%20Architecture%20%7C%20AI%20%26%20Scalable%20Systems&descAlignY=58&descColor=a0c4ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mouloud%20El%20Arram&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20-%20Backend%20and%20Enterprise%20Systems&descAlignY=58&descColor=a0c4ff&animation=fadeIn" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mouloudelarram.github.io-2c5364?style=for-the-badge&logo=github-pages&logoColor=white)](https://mouloudelarram.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mouloud%20El%20Arram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouloud-el-arram-823611202/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mouloud%20El%20Arram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouloudelarram/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-mouloudelarram-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mouloudelarram/)
 [![Email](https://img.shields.io/badge/Email-mouloudelarram%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouloudelarram@gmail.com)
 </div>
@@ -265,4 +265,4 @@ Architected complete e-commerce ecosystem including product catalog management, 
 
 ---
 
-**Last Updated:** March 2026 | [📧 Contact](mailto:mouloudelarram@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/mouloud-el-arram-823611202/) | [🌐 Portfolio](https://mouloudelarram.github.io/)
+**Last Updated:** March 2026 | [📧 Contact](mailto:mouloudelarram@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/mouloudelarram/) | [🌐 Portfolio](https://mouloudelarram.github.io/)
