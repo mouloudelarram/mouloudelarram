@@ -17,7 +17,7 @@ Currently pursuing a **Master's in Enterprise Digital Architecture** at [Téléc
 
 Passionate about bridging the gap between cutting-edge technology, robust system design, and business impact. Specialized in **enterprise digital transformation**, **cloud-native architecture**, and **AI-driven systems**.
 
-> 🟢 **Available for full-time roles starting December 2026**
+> 🟢 **Available for full-time roles starting Now !**
 
 ---
 
